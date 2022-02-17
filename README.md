@@ -1,6 +1,6 @@
-# Android Admob Tutorial
+## Android Admob Tutorial
 
-This is a sample app for educational purpose. This will demonstrate how to setup admob in your android app.
+This is a sample app to demonstrate how to setup admob in your android app.
 
 ### Project Page with Tutorial
 
